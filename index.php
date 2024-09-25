@@ -3,7 +3,7 @@
 Kirby::plugin('shallowred/html-sitemap', [
 
   'blueprints' => [
-    'blocks/html-sitemap' => include __DIR__ . '/blueprints/blocks/html-sitemap.yml',
+    'blocks/html-sitemap' => include __DIR__ . '/blueprints/html-sitemap.yml',
   ],
 
   'snippets' => [
